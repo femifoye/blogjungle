@@ -2,7 +2,7 @@
 title: What to expect from an Afrobeats Music Producer
 date: 2019-12-18T10:49:10.303Z
 ---
-
+![](/images/uploads/top-5-nigerian-music-producers-2019-.jpg)
 
 Afrobeats have come a long way since the beginning of the decade. The genre has progressed so fast in such a short time that Afrobeats artists are becoming mainstream in the global music industry.
 
@@ -23,7 +23,5 @@ TrakJungle ensures that you get all you deserve from producers such as:
 \- Trackouts in .wav
 
 \- .mp3 sample
-
-
 
 In addition, TrakJungle is not only useful for artists but for producers alike. Producers can upload their tracks alongside the trackouts then sit back and watch the money roll in.
