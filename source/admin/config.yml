@@ -23,7 +23,6 @@ collections:
     label: Categories
     folder: "source/categories"
     create: true
-    identifier_field: name
     slug: '{{year}}-{{month}}-{{day}}-{{title}}'
     fields: 
-      - {label: Category Title, name: category_title, widget: "text"}
+      - {label: Category Title, name: title, widget: "text"}
