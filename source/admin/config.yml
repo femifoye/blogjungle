@@ -21,6 +21,7 @@ collections:
       - {label: Body, name: body, widget: markdown}
   - name: categories
     label: Categories
+    widget: list
     folder: "source/categories"
     format: frontmatter
     create: true
