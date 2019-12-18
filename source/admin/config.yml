@@ -19,3 +19,7 @@ collections:
       - {label: Featured Image, name: "thumbnail", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: Body, name: body, widget: markdown}
+  - name: categories
+    label: Categories
+    widget: "list"
+    field: {label: Category Title, name: category_title, widget: "text"}
