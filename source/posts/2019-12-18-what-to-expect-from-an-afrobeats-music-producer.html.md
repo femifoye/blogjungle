@@ -1,9 +1,8 @@
 ---
 title: What to expect from an Afrobeats Music Producer
 date: 2019-12-18T10:49:10.303Z
+thumbnail: /images/uploads/top-5-nigerian-music-producers-2019-.jpg
 ---
-![](/images/uploads/top-5-nigerian-music-producers-2019-.jpg)
-
 Afrobeats have come a long way since the beginning of the decade. The genre has progressed so fast in such a short time that Afrobeats artists are becoming mainstream in the global music industry.
 
 It goes without saying that Afrobeats producers are the driving force behind this movement as they are the ones creating the sound that's shaping the narrative in the industry. Unfortunately, professionalism isn't always the order of the day when dealing with some Afrobeats artists. We also have to admit that some artists just simply refuse to do their due diligence and often go head-first into a negotiation without knowing what to actually expect.
