@@ -24,4 +24,4 @@ collections:
     folder: "source/categories"
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{title}}'
-    field: {label: Category Title, name: category_title, widget: "text"}
+    fields: {label: Category Title, name: category_title, widget: "text"}
